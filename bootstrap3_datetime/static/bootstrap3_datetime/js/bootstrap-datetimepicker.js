@@ -78,7 +78,7 @@ THE SOFTWARE.
 
 		icons = {
 		    time: 'glyphicon glyphicon-time',
-		    date: 'fa fa-calendar',
+		    date: '',
 		    up: 'glyphicon glyphicon-chevron-up',
 		    down: 'glyphicon glyphicon-chevron-down'
 		},
